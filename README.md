@@ -1,1 +1,1 @@
-# AlgoritmoExclusaoMultipla
+# AlgoritmoExclusaoMutua
